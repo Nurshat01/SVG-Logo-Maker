@@ -18,6 +18,9 @@ SVG Logo Maker is a simple tool that allows you to generate SVG logos with custo
 
 Make sure you have Node.js and npm installed on your machine.
 
+## video Walk-through
+https://1drv.ms/v/s!At889SuyUenyiSMZ6LTa5diqeQ9L?e=5RV4SY
+
 ```bash
 npm install 
 npm i inquirer@8.2.4
